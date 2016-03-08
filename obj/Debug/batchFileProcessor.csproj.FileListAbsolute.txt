@@ -1,0 +1,6 @@
+H:\GameToolsPipelines\session10\batchfileprocessor\bin\Debug\batchFileProcessor.exe.config
+H:\GameToolsPipelines\session10\batchfileprocessor\bin\Debug\batchFileProcessor.exe
+H:\GameToolsPipelines\session10\batchfileprocessor\bin\Debug\batchFileProcessor.pdb
+H:\GameToolsPipelines\session10\batchfileprocessor\obj\Debug\batchFileProcessor.csprojResolveAssemblyReference.cache
+H:\GameToolsPipelines\session10\batchfileprocessor\obj\Debug\batchFileProcessor.exe
+H:\GameToolsPipelines\session10\batchfileprocessor\obj\Debug\batchFileProcessor.pdb
